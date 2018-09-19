@@ -1,5 +1,0 @@
-[
-    "-include", 
-    "/home/hf/Desktop/nnnnn/test02/data/js/src/obj/js/src/js-confdefs.h", 
-    "-DMOZILLA_CLIENT"
-]

@@ -1,1 +1,0 @@
-/home/hf/Desktop/nnnnn/test02/data/build/unix/run-mozilla.sh

@@ -1,1 +1,0 @@
-/home/hf/Desktop/nnnnn/test02/data/testing/mozbase/mozlog/tests/test_structured.py

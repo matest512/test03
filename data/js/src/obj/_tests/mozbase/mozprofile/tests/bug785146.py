@@ -1,1 +1,0 @@
-/home/hf/Desktop/nnnnn/test02/data/testing/mozbase/mozprofile/tests/bug785146.py

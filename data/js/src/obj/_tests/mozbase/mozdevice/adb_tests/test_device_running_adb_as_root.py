@@ -1,1 +1,0 @@
-/home/hf/Desktop/nnnnn/test02/data/testing/mozbase/mozdevice/adb_tests/test_device_running_adb_as_root.py

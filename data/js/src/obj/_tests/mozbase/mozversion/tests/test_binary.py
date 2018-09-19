@@ -1,1 +1,0 @@
-/home/hf/Desktop/nnnnn/test02/data/testing/mozbase/mozversion/tests/test_binary.py
