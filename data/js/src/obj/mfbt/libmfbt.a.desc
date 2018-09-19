@@ -1,0 +1,1 @@
+OBJS = /home/hf/Desktop/nnnnn/test02/data/js/src/obj/mfbt/lz4.o /home/hf/Desktop/nnnnn/test02/data/js/src/obj/mfbt/Compression.o /home/hf/Desktop/nnnnn/test02/data/js/src/obj/mfbt/Decimal.o /home/hf/Desktop/nnnnn/test02/data/js/src/obj/mfbt/Unified_cpp_mfbt0.o /home/hf/Desktop/nnnnn/test02/data/js/src/obj/mfbt/Unified_cpp_mfbt1.o

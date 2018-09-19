@@ -1,0 +1,1 @@
+/home/hf/Desktop/nnnnn/test02/data/testing/mozbase/manifestparser/tests/verifyDirectory/test_2.js
